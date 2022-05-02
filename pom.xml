@@ -53,12 +53,4 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
       </plugin>
     </plugins>
   </build> 
- <reporting>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <version>3.0.0-M4</version>
-            </plugin>
-        </plugins>
-    </reporting>
 </project>
